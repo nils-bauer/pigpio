@@ -415,7 +415,7 @@ OVERVIEW*/
 #define PI_ENVPORT "PIGPIO_PORT"
 #define PI_ENVADDR "PIGPIO_ADDR"
 
-#define PI_LOCKFILE "/pigpio-pid/pigpio.pid"
+#define PI_LOCKFILE "/var/pigpio.pid"
 
 #define PI_I2C_COMBINED "/sys/module/i2c_bcm2708/parameters/combined"
 
